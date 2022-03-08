@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  /* font-family: "Open Sans", sans-serif !important; */
+  background-color: #f8f6f6 !important;
+}
+
+.mb-line {
+  border-bottom: 3px solid #eb5e28;
+}
+.mt-top {
+  margin-top: 50px;
+}
+.mb-bottom {
+  margin-bottom: 50px;
+}
+.text-color {
+  color: #eb5e28;
+}
