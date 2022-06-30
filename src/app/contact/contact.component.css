@@ -41,6 +41,7 @@
 }
 
 .sub-address {
-  margin-left: 148px;
-  margin-top: 18px;
+  align-items: left !important;
+  margin-left: none;
+  /* margin-top: 18px; */
 }

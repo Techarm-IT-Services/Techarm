@@ -37,10 +37,12 @@ body {
 }
 
 .nav-link {
+  color: orangered !important;
   text-decoration: none;
 }
 
 .navbar-light .navbar-nav .nav-link {
+  text-decoration: solid;
   font-size: 16px;
   padding-left: 19px;
 }
